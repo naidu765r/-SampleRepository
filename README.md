@@ -1,3 +1,3 @@
 # -SampleRepository
-This is my git repository
+This is my git repository <br>
 Welcome to Git concept
